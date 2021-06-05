@@ -1,1 +1,1 @@
-"# civati-project-resources" 
+# civati-project-resources
